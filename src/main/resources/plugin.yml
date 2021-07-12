@@ -1,0 +1,7 @@
+name: ParticleTest
+main: me.rew.particletest.ParticleTest
+version: 1.0
+api-version: 1.16
+author: rew
+commands:
+  particletask:
